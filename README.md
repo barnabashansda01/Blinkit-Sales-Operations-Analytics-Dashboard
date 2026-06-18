@@ -11,3 +11,4 @@ Blinkit-Sales-Operations-Analytics-Dashboard
 ├── README.md
 │
 └── Project_Report.pdf
+<img width="1920" height="1080" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/82941f15-6456-496e-b289-a91e8753d206" />
